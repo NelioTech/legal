@@ -1,8 +1,8 @@
 # Nelio — Privatlivspolitik
 
-**Sidst opdateret: 12. maj 2026**
+**Sidst opdateret: 9. juli 2026**
 
-Vi følger en simpel regel: minimale data, gemt lokalt, aldrig brugt til reklame.
+Vi følger en enkel regel: minimum data, gemt lokalt hvor det er muligt, transparent annoncering på gratisplanen og intet salg af personoplysninger.
 
 ---
 
@@ -32,16 +32,17 @@ I **betalte abonnementer** sendes din by eller GPS-koordinater også til vores *
 
 ## 3. Tredjepartstjenester
 
-Vi bruger præcis to kategorier af eksterne tjenester:
+Vi bruger følgende kategorier af eksterne tjenester:
 
 | Tjeneste | Formål | Abonnementer |
 |---|---|---|
 | AI-tjenesteudbyder | Generering af aktivitetsanbefalinger | Alle abonnementer |
 | Vejrdataudbyder | Vejrkontekst i realtid | Kun betalte abonnementer |
+| Google AdMob | Visning af annoncer | Kun gratisplan |
 
-Ingen analyseplatform, ingen reklamesporer og ingen nedbrudsforsker er indlejret i appen.
+Vi bruger Google AdMob til at vise annoncer til brugere på gratisplanen. AdMob kan indsamle annonceidentifikatorer (såsom GAID) og brugsdata som beskrevet i Googles annonceringspolitik. Abonnenter på betalte planer ser ikke annoncer. Ud over ovenstående er der ingen analyseplatform og ingen crashrapportering indbygget i appen.
 
-Vi navngiver bevidst ikke specifikke udbydere i denne politik, så vi frit kan skifte udbydere uden at kræve politikopdateringer. For at finde ud af hvilke udbydere der aktuelt er i brug, kontakt os på contact@nelio-tech.com.
+Med undtagelse af Google AdMob navngiver vi bevidst ikke specifikke udbydere i denne politik, så vi frit kan skifte udbydere uden at kræve politikopdateringer. Kontakt os på contact@nelio-tech.com for at få at vide, hvilke udbydere der aktuelt bruges.
 
 ## 4. Dataopbevaring
 
@@ -52,7 +53,6 @@ Vores AI-udbyder kan midlertidigt beholde promptdata i op til 30 dage i henhold 
 ## 5. Hvad vi IKKE indsamler
 
 - E-mailadresse eller kontooplysninger
-- Reklame- eller enhedsidentifikatorer (IDFA, GAID)
 - Biometriske data, stemmeoptagelser eller fotos
 - Browserhistorik eller data uden for appen
 - Betalingskortoplysninger (håndteres udelukkende af app-butikken)
@@ -60,6 +60,7 @@ Vores AI-udbyder kan midlertidigt beholde promptdata i op til 30 dage i henhold 
 ## 6. Dine rettigheder
 
 - Du kan til enhver tid deaktivere lokationsadgang i din enheds systemindstillinger.
+- Du kan fravælge personlige annoncer via din enheds annonceindstillinger.
 - Du kan afvise GPS-bekræftelsesprompten før hver analyse.
 - Du kan slette alle lokale data ved at afinstallere appen.
 - For spørgsmål om privatliv eller dataanmodninger, kontakt os på contact@nelio-tech.com.

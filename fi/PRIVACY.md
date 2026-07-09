@@ -1,8 +1,8 @@
 # Nelio — Tietosuojakäytäntö
 
-**Viimeksi päivitetty: 12. toukokuuta 2026**
+**Viimeksi päivitetty: 9. heinäkuuta 2026**
 
-Noudatamme yksinkertaista sääntöä: minimaalinen data, tallennettu paikallisesti, ei koskaan käytetä mainontaan.
+Noudatamme yksinkertaista sääntöä: vähimmäismäärä dataa, paikallisesti tallennettuna aina kun mahdollista, läpinäkyvä mainonta ilmaisessa paketissa eikä henkilötietojen myyntiä.
 
 ---
 
@@ -32,16 +32,17 @@ Nämä tiedot lähetetään **palvelimellemme** ja sitten **tekoälynpalveluntar
 
 ## 3. Kolmansien osapuolten palvelut
 
-Käytämme täsmälleen kahta ulkoisten palvelujen kategoriaa:
+Käytämme seuraavia ulkoisten palvelujen kategorioita:
 
 | Palvelu | Tarkoitus | Suunnitelmat |
 |---|---|---|
 | Tekoälypalveluntarjoaja | Aktiviteettisuositusten luominen | Kaikki suunnitelmat |
 | Säätietojentarjoaja | Reaaliaikainen sääkonteksti | Vain maksulliset suunnitelmat |
+| Google AdMob | Mainosten näyttäminen | Vain ilmainen paketti |
 
-Sovellukseen ei ole integroitu analytiikka-alustaa, mainosten seurantaohjelmaa eikä kaatumisraportoijaa.
+Käytämme Google AdMobia mainosten näyttämiseen ilmaisen paketin käyttäjille. AdMob voi kerätä mainostunnisteita (kuten GAID) ja käyttötietoja Googlen mainoskäytännön mukaisesti. Maksullisten pakettien tilaajat eivät näe mainoksia. Edellä mainitun lisäksi sovellukseen ei ole upotettu analytiikka-alustaa eikä kaatumisraportointia.
 
-Emme tarkoituksellisesti nimeä tiettyjä tarjoajia tässä käytännössä, jotta voimme vaihtaa tarjoajia vapaasti ilman käytäntöpäivityksiä. Saadaksesi tietää, mitä tarjoajia tällä hetkellä käytetään, ota meihin yhteyttä osoitteessa contact@nelio-tech.com.
+Google AdMobia lukuun ottamatta emme tarkoituksella nimeä tiettyjä palveluntarjoajia tässä käytännössä, jotta voimme vaihtaa palveluntarjoajia vapaasti ilman käytännön päivityksiä. Saat tietää, mitä palveluntarjoajia tällä hetkellä käytetään, ottamalla yhteyttä osoitteeseen contact@nelio-tech.com.
 
 ## 4. Tietojen säilyttäminen
 
@@ -52,7 +53,6 @@ Tekoälynpalveluntarjoajamme saattaa tilapäisesti säilyttää kehotetietoja en
 ## 5. Mitä emme kerää
 
 - Sähköpostiosoitetta tai tilitietoja
-- Mainonta- tai laitetunnisteita (IDFA, GAID)
 - Biometrisiä tietoja, äänitallenteita tai valokuvia
 - Selaushistoriaa tai mitään sovelluksen ulkopuolisia tietoja
 - Maksukorttitietoja (sovelluskaupan kokonaan hallinnoimia)
@@ -60,6 +60,7 @@ Tekoälynpalveluntarjoajamme saattaa tilapäisesti säilyttää kehotetietoja en
 ## 6. Oikeutesi
 
 - Voit poistaa sijaintikäytön käytöstä milloin tahansa laitteesi järjestelmäasetuksista.
+- Voit poistaa personoidut mainokset käytöstä laitteesi mainosasetuksista.
 - Voit hylätä GPS-vahvistuskehotteen ennen jokaista analyysiä.
 - Voit poistaa kaikki paikalliset tiedot poistamalla sovelluksen asennuksen.
 - Tietosuojaa koskevissa kysymyksissä tai tietopyynnöissä ota meihin yhteyttä osoitteessa contact@nelio-tech.com.

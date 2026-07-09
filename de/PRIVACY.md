@@ -1,8 +1,8 @@
 # Nelio — Datenschutzerklärung
 
-**Zuletzt aktualisiert: 12. Mai 2026**
+**Zuletzt aktualisiert: 9. Juli 2026**
 
-Wir folgen einer einfachen Regel: minimale Daten, lokal gespeichert, nie für Werbung verwendet.
+Wir folgen einer einfachen Regel: minimale Daten, lokal gespeichert, wo immer möglich, transparente Werbung im kostenlosen Plan und kein Verkauf personenbezogener Daten.
 
 ---
 
@@ -32,16 +32,17 @@ Bei **kostenpflichtigen Tarifen** werden Ihre Stadt oder GPS-Koordinaten auch an
 
 ## 3. Drittanbieter-Dienste
 
-Wir nutzen genau zwei Kategorien externer Dienste:
+Wir nutzen die folgenden Kategorien externer Dienste:
 
 | Dienst | Zweck | Tarife |
 |---|---|---|
 | KI-Dienstanbieter | Generierung von Aktivitätsempfehlungen | Alle Tarife |
 | Wetterdatenanbieter | Echtzeit-Wetterkontext | Nur kostenpflichtige Tarife |
+| Google AdMob | Anzeige von Werbung | Nur kostenloser Plan |
 
-In der App sind keine Analyseplattform, kein Werbe-Tracker und kein Absturzmelder eingebettet.
+Wir nutzen Google AdMob, um Nutzern des kostenlosen Plans Werbung anzuzeigen. AdMob kann Werbe-IDs (wie GAID) und Nutzungsdaten erfassen, wie in den Werberichtlinien von Google beschrieben. Abonnenten kostenpflichtiger Pläne sehen keine Werbung. Über das oben Genannte hinaus sind keine Analyseplattform und kein Crash-Reporter in die App eingebettet.
 
-Wir nennen in dieser Richtlinie absichtlich keine konkreten Anbieter, damit wir Anbieter frei wechseln können, ohne Richtlinienaktualisierungen zu erfordern. Um zu erfahren, welche Anbieter derzeit genutzt werden, kontaktieren Sie uns unter contact@nelio-tech.com.
+Mit Ausnahme von Google AdMob nennen wir in dieser Richtlinie absichtlich keine bestimmten Anbieter, damit wir Anbieter frei wechseln können, ohne Richtlinienaktualisierungen zu benötigen. Um zu erfahren, welche Anbieter derzeit verwendet werden, kontaktieren Sie uns unter contact@nelio-tech.com.
 
 ## 4. Datenspeicherung
 
@@ -52,7 +53,6 @@ Unser KI-Anbieter kann Prompt-Daten gemäß seinen Standard-API-Bedingungen vor�
 ## 5. Was wir NICHT erheben
 
 - E-Mail-Adresse oder Kontoinformationen
-- Werbe- oder Gerätekennungen (IDFA, GAID)
 - Biometrische Daten, Sprachaufzeichnungen oder Fotos
 - Browserverlauf oder Daten außerhalb der App
 - Zahlungskarteninformationen (vollständig vom App-Store verwaltet)
@@ -60,6 +60,7 @@ Unser KI-Anbieter kann Prompt-Daten gemäß seinen Standard-API-Bedingungen vor�
 ## 6. Ihre Rechte
 
 - Sie können den Standortzugriff jederzeit in den Systemeinstellungen Ihres Geräts deaktivieren.
+- Sie können personalisierte Werbung über die Werbeeinstellungen Ihres Geräts deaktivieren.
 - Sie können die GPS-Bestätigungsabfrage vor jeder Analyse ablehnen.
 - Sie können alle lokalen Daten durch Deinstallation der App löschen.
 - Bei datenschutzbezogenen Fragen oder Datenanfragen kontaktieren Sie uns unter contact@nelio-tech.com.

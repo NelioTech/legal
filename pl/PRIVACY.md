@@ -1,8 +1,8 @@
 # Nelio — Polityka prywatności
 
-**Ostatnia aktualizacja: 12 maja 2026**
+**Ostatnia aktualizacja: 9 lipca 2026**
 
-Stosujemy prostą zasadę: minimalne dane, przechowywane lokalnie, nigdy nieużywane do reklamy.
+Stosujemy prostą zasadę: minimum danych, przechowywanie lokalne tam, gdzie to możliwe, przejrzyste reklamy w planie bezpłatnym i brak sprzedaży danych osobowych.
 
 ---
 
@@ -32,16 +32,17 @@ W **płatnych planach** Twoje miasto lub współrzędne GPS są również wysył
 
 ## 3. Usługi zewnętrzne
 
-Korzystamy z dokładnie dwóch kategorii usług zewnętrznych:
+Korzystamy z następujących kategorii usług zewnętrznych:
 
 | Usługa | Cel | Plany |
 |---|---|---|
 | Dostawca usług AI | Generowanie rekomendacji aktywności | Wszystkie plany |
 | Dostawca danych pogodowych | Kontekst pogodowy w czasie rzeczywistym | Tylko płatne plany |
+| Google AdMob | Wyświetlanie reklam | Tylko plan bezpłatny |
 
-W aplikacji nie są osadzone żadne platformy analityczne, trackery reklamowe ani narzędzia do raportowania awarii.
+Używamy Google AdMob do wyświetlania reklam użytkownikom planu bezpłatnego. AdMob może zbierać identyfikatory reklamowe (takie jak GAID) i dane o użytkowaniu zgodnie z Polityką reklamową Google. Subskrybenci planów płatnych nie widzą reklam. Poza powyższym w aplikacji nie osadzono żadnej platformy analitycznej ani narzędzia do raportowania awarii.
 
-Celowo nie wymieniamy konkretnych dostawców w tej polityce, abyśmy mogli swobodnie zmieniać dostawców bez konieczności aktualizacji polityki. Aby dowiedzieć się, którzy dostawcy są aktualnie używani, skontaktuj się z nami pod adresem contact@nelio-tech.com.
+Z wyjątkiem Google AdMob celowo nie wymieniamy w tej polityce konkretnych dostawców, aby móc swobodnie ich zmieniać bez konieczności aktualizacji polityki. Aby dowiedzieć się, którzy dostawcy są obecnie używani, skontaktuj się z nami pod adresem contact@nelio-tech.com.
 
 ## 4. Przechowywanie danych
 
@@ -52,7 +53,6 @@ Nasz dostawca AI może tymczasowo przechowywać dane promptów do 30 dni zgodnie
 ## 5. Czego NIE zbieramy
 
 - Adresu e-mail ani informacji o koncie
-- Identyfikatorów reklamowych lub urządzeń (IDFA, GAID)
 - Danych biometrycznych, nagrań głosowych ani zdjęć
 - Historii przeglądania ani żadnych danych spoza aplikacji
 - Informacji o kartach płatniczych (obsługiwanych całkowicie przez sklep z aplikacjami)
@@ -60,6 +60,7 @@ Nasz dostawca AI może tymczasowo przechowywać dane promptów do 30 dni zgodnie
 ## 6. Twoje prawa
 
 - Możesz w dowolnym momencie wyłączyć dostęp do lokalizacji w ustawieniach systemowych urządzenia.
+- Możesz zrezygnować ze spersonalizowanych reklam w ustawieniach reklam swojego urządzenia.
 - Możesz odrzucić monit potwierdzenia GPS przed każdą analizą.
 - Możesz usunąć wszystkie lokalne dane, odinstalowując aplikację.
 - W przypadku pytań dotyczących prywatności lub żądań dotyczących danych skontaktuj się z nami pod adresem contact@nelio-tech.com.

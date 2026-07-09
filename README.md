@@ -1,6 +1,6 @@
 # Nelio — Legal Documents
 
-All documents are available in the same version. Last updated: 2026-05-12
+All documents are available in the same version. Last updated: 2026-07-09
 
 | Language | Privacy Policy | Terms of Use |
 |---|---|---|

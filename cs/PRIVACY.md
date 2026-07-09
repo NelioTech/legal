@@ -1,8 +1,8 @@
 # Nelio — Zásady ochrany osobních údajů
 
-**Poslední aktualizace: 12. května 2026**
+**Naposledy aktualizováno: 9. července 2026**
 
-Řídíme se jednoduchým pravidlem: minimální data, uložená lokálně, nikdy nevyužívaná pro reklamu.
+Následujeme jednoduché pravidlo: minimum dat, uložených lokálně tam, kde je to možné, transparentní reklama v bezplatném plánu a žádný prodej osobních údajů.
 
 ---
 
@@ -32,16 +32,17 @@ V **placených plánech** jsou vaše město nebo souřadnice GPS také odeslány
 
 ## 3. Služby třetích stran
 
-Používáme přesně dvě kategorie externích služeb:
+Používáme následující kategorie externích služeb:
 
 | Služba | Účel | Plány |
 |---|---|---|
 | Poskytovatel AI služeb | Generování doporučení aktivit | Všechny plány |
 | Poskytovatel meteorologických dat | Kontext počasí v reálném čase | Pouze placené plány |
+| Google AdMob | Zobrazování reklam | Pouze bezplatný plán |
 
-V aplikaci není zabudována žádná analytická platforma, reklamní tracker ani hlásič pádů.
+Používáme Google AdMob k zobrazování reklam uživatelům bezplatného plánu. AdMob může shromažďovat reklamní identifikátory (například GAID) a údaje o používání, jak je popsáno v zásadách reklamy společnosti Google. Předplatitelé placených plánů reklamy nevidí. Kromě výše uvedeného není v aplikaci integrována žádná analytická platforma ani nástroj pro hlášení pádů.
 
-Záměrně nepojmenováváme konkrétní poskytovatele v těchto zásadách, abychom mohli volně měnit poskytovatele bez nutnosti aktualizace zásad. Chcete-li zjistit, kteří poskytovatelé jsou momentálně používáni, kontaktujte nás na contact@nelio-tech.com.
+S výjimkou Google AdMob záměrně nejmenujeme konkrétní poskytovatele v těchto zásadách, abychom je mohli volně měnit bez nutnosti aktualizace zásad. Chcete-li zjistit, kteří poskytovatelé se aktuálně používají, kontaktujte nás na contact@nelio-tech.com.
 
 ## 4. Uchovávání dat
 
@@ -52,7 +53,6 @@ Náš poskytovatel AI může dočasně uchovávat data promptů po dobu až 30 d
 ## 5. Co NESHROMAŽĎUJEME
 
 - E-mailovou adresu ani informace o účtu
-- Reklamní nebo identifikátory zařízení (IDFA, GAID)
 - Biometrická data, hlasové záznamy ani fotografie
 - Historii prohlížení ani žádná data mimo aplikaci
 - Informace o platebních kartách (spravované výhradně obchodem s aplikacemi)
@@ -60,6 +60,7 @@ Náš poskytovatel AI může dočasně uchovávat data promptů po dobu až 30 d
 ## 6. Vaše práva
 
 - Přístup k poloze můžete kdykoli zakázat v nastavení systému vašeho zařízení.
+- Personalizované reklamy můžete vypnout v nastavení reklam ve svém zařízení.
 - Před každou analýzou můžete odmítnout výzvu k potvrzení GPS.
 - Všechna místní data můžete vymazat odinstalováním aplikace.
 - V případě jakýchkoli dotazů týkajících se soukromí nebo žádostí o data nás kontaktujte na contact@nelio-tech.com.

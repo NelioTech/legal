@@ -1,8 +1,8 @@
 # Nelio — Privacy Policy
 
-**Last updated: 2026-05-12**
+**Last updated: 2026-07-09**
 
-We follow a simple rule: minimum data, kept locally, never used for advertising.
+We follow a simple rule: minimum data, kept locally where possible, transparent advertising on the free plan, and no sale of personal data.
 
 ---
 
@@ -32,16 +32,17 @@ On **paid plans**, your city or GPS coordinates are also sent to our **weather d
 
 ## 3. Third-party services
 
-We use exactly two categories of external services:
+We use the following categories of external services:
 
 | Service | Purpose | Plans |
 |---|---|---|
 | AI service provider | Generating activity recommendations | All plans |
 | Weather data provider | Real-time weather context | Paid plans only |
+| Google AdMob | Displaying advertisements | Free plan only |
 
-No analytics platform, no advertising tracker, and no crash reporter are embedded in the app.
+We use Google AdMob to display advertisements to users on the free plan. AdMob may collect advertising identifiers (such as GAID) and usage data as described in Google's Advertising Policy. Subscribers on paid plans do not see ads. No analytics platform and no crash reporter beyond the above are embedded in the app.
 
-We intentionally do not name specific providers in this policy so that we can switch providers freely without requiring policy updates. To learn which providers are currently in use, contact us at contact@nelio-tech.com.
+Except for Google AdMob, we intentionally do not name specific providers in this policy so that we can switch providers freely without requiring policy updates. To learn which providers are currently in use, contact us at contact@nelio-tech.com.
 
 ## 4. Data retention
 
@@ -52,7 +53,6 @@ Our AI service provider may temporarily retain prompt data for up to 30 days per
 ## 5. What we do NOT collect
 
 - Email address or account information
-- Advertising or device identifiers (IDFA, GAID)
 - Biometric data, voice recordings, or photos
 - Browsing history or any data outside the app
 - Payment card information (handled entirely by the app store)
@@ -60,6 +60,7 @@ Our AI service provider may temporarily retain prompt data for up to 30 days per
 ## 6. Your rights
 
 - You can disable location access at any time in your device's system settings.
+- You can opt out of personalized ads via your device's ad settings.
 - You can decline the GPS confirmation prompt before each analysis.
 - You can clear all local data by uninstalling the app.
 - For any privacy questions or data requests, contact us at contact@nelio-tech.com.

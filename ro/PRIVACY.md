@@ -1,8 +1,8 @@
 # Nelio — Politica de confidențialitate
 
-**Ultima actualizare: 12 mai 2026**
+**Ultima actualizare: 9 iulie 2026**
 
-Urmăm o regulă simplă: date minime, stocate local, niciodată utilizate pentru publicitate.
+Respectăm o regulă simplă: date minime, păstrate local acolo unde este posibil, publicitate transparentă în planul gratuit și nicio vânzare de date personale.
 
 ---
 
@@ -32,16 +32,17 @@ Aceste date sunt trimise către **serverul nostru** și apoi către **furnizorul
 
 ## 3. Servicii terțe
 
-Utilizăm exact două categorii de servicii externe:
+Utilizăm următoarele categorii de servicii externe:
 
 | Serviciu | Scop | Planuri |
 |---|---|---|
 | Furnizor de servicii AI | Generarea de recomandări de activități | Toate planurile |
 | Furnizor de date meteorologice | Context meteorologic în timp real | Numai planuri cu plată |
+| Google AdMob | Afișarea reclamelor | Doar plan gratuit |
 
-Nicio platformă de analiză, niciun tracker publicitar și niciun reporter de erori nu sunt integrate în aplicație.
+Folosim Google AdMob pentru a afișa reclame utilizatorilor planului gratuit. AdMob poate colecta identificatori publicitari (precum GAID) și date de utilizare conform Politicii de publicitate Google. Abonații planurilor plătite nu văd reclame. Dincolo de cele de mai sus, în aplicație nu este integrată nicio platformă de analiză și niciun raportor de blocări.
 
-Nu numim intenționat furnizori specifici în această politică pentru a putea schimba furnizorii în mod liber fără a necesita actualizări ale politicii. Pentru a afla ce furnizori sunt utilizați în prezent, contactați-ne la contact@nelio-tech.com.
+Cu excepția Google AdMob, nu numim intenționat furnizori specifici în această politică, astfel încât să îi putem schimba liber fără a necesita actualizări ale politicii. Pentru a afla ce furnizori sunt utilizați în prezent, contactați-ne la contact@nelio-tech.com.
 
 ## 4. Retenția datelor
 
@@ -52,7 +53,6 @@ Furnizorul nostru de AI poate reține temporar datele de prompt timp de până l
 ## 5. Ce NU colectăm
 
 - Adresă de e-mail sau informații despre cont
-- Identificatori publicitari sau de dispozitiv (IDFA, GAID)
 - Date biometrice, înregistrări vocale sau fotografii
 - Istoricul de navigare sau orice date din afara aplicației
 - Informații despre carduri de plată (gestionate integral de magazinul de aplicații)
@@ -60,6 +60,7 @@ Furnizorul nostru de AI poate reține temporar datele de prompt timp de până l
 ## 6. Drepturile dvs.
 
 - Puteți dezactiva accesul la locație în orice moment din setările de sistem ale dispozitivului.
+- Puteți renunța la reclamele personalizate din setările de publicitate ale dispozitivului.
 - Puteți refuza solicitarea de confirmare GPS înainte de fiecare analiză.
 - Puteți șterge toate datele locale dezinstalând aplicația.
 - Pentru orice întrebări legate de confidențialitate sau solicitări de date, contactați-ne la contact@nelio-tech.com.

@@ -1,8 +1,8 @@
 # Nelio — Privacybeleid
 
-**Laatste update: 12 mei 2026**
+**Laatst bijgewerkt: 9 juli 2026**
 
-We volgen een eenvoudige regel: minimale gegevens, lokaal opgeslagen, nooit gebruikt voor reclame.
+We volgen een eenvoudige regel: minimale gegevens, lokaal bewaard waar mogelijk, transparante advertenties in het gratis plan en geen verkoop van persoonsgegevens.
 
 ---
 
@@ -32,16 +32,17 @@ Bij **betaalde abonnementen** worden uw stad of GPS-coördinaten ook verzonden n
 
 ## 3. Externe diensten
 
-We gebruiken precies twee categorieën externe diensten:
+We gebruiken de volgende categorieën externe diensten:
 
 | Dienst | Doel | Abonnementen |
 |---|---|---|
 | AI-dienstaanbieder | Genereren van activiteitsaanbevelingen | Alle abonnementen |
 | Weerdataaanbieder | Real-time weercontext | Alleen betaalde abonnementen |
+| Google AdMob | Advertenties weergeven | Alleen gratis plan |
 
-Er zijn geen analyseplatforms, reclametrackers of crashrapporteerders in de app ingebouwd.
+Wij gebruiken Google AdMob om advertenties te tonen aan gebruikers van het gratis plan. AdMob kan advertentie-ID's (zoals GAID) en gebruiksgegevens verzamelen zoals beschreven in het advertentiebeleid van Google. Abonnees op betaalde plannen zien geen advertenties. Behalve het bovenstaande zijn er geen analyseplatforms en geen crashreporters in de app ingebouwd.
 
-We noemen bewust geen specifieke aanbieders in dit beleid, zodat we van aanbieder kunnen wisselen zonder beleidswijzigingen te vereisen. Neem contact met ons op via contact@nelio-tech.com om te weten welke aanbieders momenteel in gebruik zijn.
+Met uitzondering van Google AdMob noemen we in dit beleid bewust geen specifieke aanbieders, zodat we vrij van aanbieder kunnen wisselen zonder beleidsupdates te vereisen. Neem contact met ons op via contact@nelio-tech.com om te weten welke aanbieders momenteel worden gebruikt.
 
 ## 4. Gegevensbewaring
 
@@ -52,7 +53,6 @@ Onze AI-aanbieder kan promptgegevens tijdelijk bewaren tot 30 dagen op grond van
 ## 5. Wat we NIET verzamelen
 
 - E-mailadres of accountinformatie
-- Reclame- of apparaat-ID's (IDFA, GAID)
 - Biometrische gegevens, spraakopnames of foto's
 - Browsergeschiedenis of gegevens buiten de app
 - Betaalkaartinformatie (volledig beheerd door de app-winkel)
@@ -60,6 +60,7 @@ Onze AI-aanbieder kan promptgegevens tijdelijk bewaren tot 30 dagen op grond van
 ## 6. Uw rechten
 
 - U kunt locatietoegang op elk moment uitschakelen in de systeeminstellingen van uw apparaat.
+- U kunt gepersonaliseerde advertenties uitschakelen via de advertentie-instellingen van uw apparaat.
 - U kunt de GPS-bevestigingsvraag vóór elke analyse weigeren.
 - U kunt alle lokale gegevens wissen door de app te verwijderen.
 - Voor privacyvragen of gegevensverzoeken kunt u contact met ons opnemen via contact@nelio-tech.com.
