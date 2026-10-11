@@ -1,5 +1,7 @@
 # Nelio — Integritetspolicy
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **Senast uppdaterad: 9 juli 2026**
 
 Vi följer en enkel regel: minimalt med data, lagrad lokalt där det är möjligt, transparent annonsering i gratisplanen och ingen försäljning av personuppgifter.

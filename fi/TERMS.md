@@ -1,5 +1,7 @@
 # Nelio — Käyttöehdot
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/TERMS.md) and [French](../fr/TERMS.md) terms. Please use one of those current versions.
+
 **Viimeksi päivitetty: 12. toukokuuta 2026**
 
 Käyttämällä Neliota hyväksyt nämä Käyttöehdot. Lue ne huolellisesti.

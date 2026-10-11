@@ -1,5 +1,7 @@
 # Nelio — Informativa sulla privacy
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **Ultimo aggiornamento: 9 luglio 2026**
 
 Seguiamo una regola semplice: dati minimi, conservati localmente quando possibile, pubblicità trasparente nel piano gratuito e nessuna vendita di dati personali.

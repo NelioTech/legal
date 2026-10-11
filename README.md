@@ -1,6 +1,6 @@
 # Nelio — Legal Documents
 
-All documents are available in the same version. Last updated: 2026-07-09
+The English and French policies and terms were updated on 2026-10-11. Other translations are retained for reference but have not yet been reviewed against that revision. Use the English or French text for the current version.
 
 | Language | Privacy Policy | Terms of Use |
 |---|---|---|

@@ -1,58 +1,33 @@
-# Nelio — Terms of Use
+# Nelio Activity - Terms of Use
 
-**Last updated: 2026-05-12**
+**Last updated: 2026-10-11**
 
-By using Nelio, you agree to these Terms of Use. Please read them carefully.
+These terms govern your use of Nelio Activity, operated by Nelio Tech LLC. If you do not agree, do not use the service. Contact: contact@nelio-tech.com.
 
----
+## 1. The service
 
-## 1. Acceptance
+Nelio Activity suggests local activities from your selected mood, preferences, city and optional location. The free plan uses rule-based recommendations and advertising. Standard and Premium may use AI recommendations and source-linked event discovery; Premium may additionally show Ticketmaster events. Weather context and optional on-device learning may inform paid recommendations. An internet connection is required for analysis. Features depend on provider availability, location coverage and the plan shown in the app.
 
-Downloading or using the Nelio app constitutes your acceptance of these terms. If you do not agree, please do not use the app.
+The free and Standard plans currently permit up to three analyses per UTC day; Premium has no app-imposed daily analysis count. These limits and plan features may change prospectively with notice. The current offer and purchase screen control the price, trial (if any), billing period and included features at the time of purchase.
 
-## 2. Service description
+## 2. Events and recommendations
 
-Nelio provides AI-powered local activity recommendations based on your mood and preferences.
+AI-generated places, travel times, budgets and descriptions can be wrong. Event sources, opening hours, prices, accessibility and availability can change without notice. Check details directly with the venue, organizer or ticket seller before traveling, booking or paying. Nelio Activity does not sell event tickets or guarantee admission. External websites and purchases are governed by their own terms.
 
-The service:
-- Uses a third-party AI provider to generate personalised recommendations
-- On paid plans, also uses a weather data provider for real-time weather context
-- Requires an internet connection to run an analysis
+## 3. Subscriptions
 
-Paid plans additionally enable:
-- A **local learning engine** that re-ranks recommendations based on your interaction history (stored only on your device)
-- **Real-time weather context** included in the AI prompt
-- **Personalised daily notifications** scheduled at your detected peak usage hour
-- **Unlimited analyses** (Premium plan) or up to 3 analyses per day (Standard plan)
+Subscriptions and payment are processed by the applicable app store; RevenueCat helps verify entitlement. Auto-renewal, cancellation, refunds and any trial are governed by the terms displayed by that store when you subscribe. Uninstalling the app does not cancel a subscription. Manage or cancel it in the app store account used for purchase. We do not receive your payment-card details.
 
-## 3. Acceptable use
+## 4. Acceptable use and rights
 
-You agree to use Nelio only for personal, lawful purposes. You must not:
+Use the service lawfully and do not interfere with its operation, abuse its APIs, or submit unlawful content. You retain rights in information you provide. We grant a limited, non-exclusive, non-transferable licence to use the app for personal purposes. Nelio Tech LLC retains its rights in the app, branding and original content, subject to applicable law and third-party rights.
 
-- Attempt to reverse-engineer, decompile, copy, or redistribute the app or its content
-- Abuse the service in a way that degrades availability for other users
-- Use the app to generate or distribute illegal content
+## 5. Availability and responsibility
 
-## 4. Intellectual property
+We aim to keep the service available but cannot guarantee uninterrupted access or the accuracy of third-party information. Nothing in these terms excludes rights or remedies that cannot legally be excluded, including mandatory consumer protections. To the extent permitted by applicable law, we are not responsible for losses caused by relying on unverified recommendations or by a third-party event, venue, ticket seller or network outage.
 
-All content, trademarks, and code within Nelio are the property of Nelio Tech. You are granted a personal, non-transferable, non-exclusive licence to use the app for personal purposes.
+## 6. Privacy and changes
 
-## 5. Limitation of liability
-
-Nelio provides recommendations on an **as-is** basis. We are not liable for:
-
-- Any decisions made based on the app's suggestions
-- Service interruptions caused by third-party providers or infrastructure
-- Inaccuracies in weather data or AI-generated content
-
-## 6. Subscriptions and billing
-
-Subscriptions are managed and billed through the applicable app store (Google Play or Apple App Store). Billing terms, refund policies, and cancellation procedures are governed by the app store's own terms of service.
-
-## 7. Changes to terms
-
-We may update these terms at any time. The date at the top reflects the latest revision. Continued use of the app after changes constitutes acceptance of the new terms.
-
----
+See the [Privacy Policy](./PRIVACY.md) for data practices and controls. We may update these terms for service or legal changes. We will make the revised terms available with a new date and notify users of material changes where required. Changes do not retrospectively alter a completed purchase.
 
 Contact: contact@nelio-tech.com

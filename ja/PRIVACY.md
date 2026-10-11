@@ -1,5 +1,7 @@
 # Nelio — プライバシーポリシー
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **最終更新日：2026年7月9日**
 
 私たちは、最小限のデータ、可能な限りローカル保存、無料プランでの透明な広告表示、個人データの非売却というシンプルな原則に従います。

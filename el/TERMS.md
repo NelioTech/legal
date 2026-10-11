@@ -1,5 +1,7 @@
 # Nelio — Όροι Χρήσης
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/TERMS.md) and [French](../fr/TERMS.md) terms. Please use one of those current versions.
+
 **Τελευταία ενημέρωση: 12 Μαΐου 2026**
 
 Χρησιμοποιώντας το Nelio, αποδέχεστε αυτούς τους Όρους Χρήσης. Παρακαλούμε διαβάστε τους προσεκτικά.

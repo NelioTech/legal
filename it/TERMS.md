@@ -1,5 +1,7 @@
 # Nelio — Termini di utilizzo
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/TERMS.md) and [French](../fr/TERMS.md) terms. Please use one of those current versions.
+
 **Ultimo aggiornamento: 12 maggio 2026**
 
 Utilizzando Nelio, accetti i presenti Termini di utilizzo. Ti preghiamo di leggerli attentamente.

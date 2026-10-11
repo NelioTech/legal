@@ -1,5 +1,7 @@
 # Nelio — 개인정보 처리방침
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **최종 업데이트: 2026년 7월 9일**
 
 저희는 최소한의 데이터, 가능한 경우 로컬 저장, 무료 플랜의 투명한 광고, 개인 데이터 판매 없음이라는 간단한 원칙을 따릅니다.

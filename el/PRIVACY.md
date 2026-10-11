@@ -1,5 +1,7 @@
 # Nelio — Πολιτική Απορρήτου
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **Τελευταία ενημέρωση: 9 Ιουλίου 2026**
 
 Ακολουθούμε έναν απλό κανόνα: ελάχιστα δεδομένα, αποθηκευμένα τοπικά όπου είναι δυνατό, διαφανής διαφήμιση στο δωρεάν πρόγραμμα και καμία πώληση προσωπικών δεδομένων.

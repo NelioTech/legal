@@ -1,5 +1,7 @@
 # Nelio — سياسة الخصوصية
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **آخر تحديث: 9 يوليو 2026**
 
 نتبع قاعدة بسيطة: الحد الأدنى من البيانات، تُحفظ محليًا حيثما أمكن، مع إعلانات شفافة في الخطة المجانية، ودون بيع للبيانات الشخصية.

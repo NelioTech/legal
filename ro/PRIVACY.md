@@ -1,5 +1,7 @@
 # Nelio — Politica de confidențialitate
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **Ultima actualizare: 9 iulie 2026**
 
 Respectăm o regulă simplă: date minime, păstrate local acolo unde este posibil, publicitate transparentă în planul gratuit și nicio vânzare de date personale.

@@ -1,5 +1,7 @@
 # Nelio — Privatlivspolitik
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **Sidst opdateret: 9. juli 2026**
 
 Vi følger en enkel regel: minimum data, gemt lokalt hvor det er muligt, transparent annoncering på gratisplanen og intet salg af personoplysninger.

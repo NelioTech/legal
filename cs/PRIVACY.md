@@ -1,5 +1,7 @@
 # Nelio — Zásady ochrany osobních údajů
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **Naposledy aktualizováno: 9. července 2026**
 
 Následujeme jednoduché pravidlo: minimum dat, uložených lokálně tam, kde je to možné, transparentní reklama v bezplatném plánu a žádný prodej osobních údajů.

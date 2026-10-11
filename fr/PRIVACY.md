@@ -1,74 +1,43 @@
-# Nelio — Politique de confidentialité
+# Nelio Activity - Politique de confidentialité
 
-**Dernière mise à jour : 9 juillet 2026**
+**Dernière mise à jour : 11 octobre 2026**
 
-Nous suivons une règle simple : minimum de données, conservées localement lorsque c'est possible, publicité transparente sur le plan gratuit, et aucune vente de données personnelles.
+Nelio Tech LLC (contact@nelio-tech.com) exploite Nelio Activity. Cette politique explique les données traitées par l'application et ses prestataires. Nous ne vendons pas vos données personnelles. Les fonctions gratuites, Standard et Premium n'utilisent pas les mêmes flux.
 
----
+## 1. Données conservées sur votre appareil
 
-## 1. Ce qui reste sur votre appareil
+L'application conserve dans son stockage privé les réglages, catégories préférées ou exclues, humeurs sélectionnées, historique des recommandations et interactions, compteurs d'utilisation et incidents locaux. La personnalisation des plans payants utilise localement l'historique des interactions. Cet historique ou profil n'est pas automatiquement téléversé. En revanche, les réglages courants et l'humeur choisie sont transmis lors d'une demande d'analyse, comme expliqué ci-dessous. La désinstallation supprime les données locales, sous réserve des sauvegardes de l'appareil.
 
-Les données suivantes sont stockées exclusivement dans le stockage local privé de l'application et ne quittent jamais votre téléphone :
+## 2. Analyse et localisation
 
-- Vos préférences d'activités et les catégories exclues
-- L'historique des sessions et les recommandations passées
-- Le statut d'abonnement et les compteurs d'utilisation
-- Les journaux d'interaction comportementale (activités consultées, décisions prises, durée de consultation) — utilisés uniquement pour personnaliser les futures recommandations sur les plans payants
-- Les journaux d'incidents locaux (erreurs, ralentissements) — agrégés anonymement avant toute transmission
+Chaque demande d'analyse parvient à notre serveur avec l'humeur et l'intention sélectionnées, la taille de l'activité, la durée éventuelle, la ville et le pays, les réglages de recommandation courants (budgets, rayons, catégories préférées ou exclues et langue), ainsi que les coordonnées si vous choisissez la localisation de l'appareil. Les demandes payantes incluent aussi un identifiant utilisateur anonyme RevenueCat pour vérifier l'abonnement. Le serveur reçoit le fuseau horaire du téléphone pour les demandes payantes. Votre adresse IP est visible par le serveur et son hébergeur lors de la connexion.
 
-## 2. Ce qui est brièvement envoyé à des services tiers
+Les recommandations gratuites sont générées par des règles côté serveur. Pour les recommandations payantes, notre serveur transmet à un prestataire d'IA une requête contenant l'humeur, les préférences, la ville et, si elles ont été fournies, les coordonnées précises. Elle peut aussi contenir la météo et l'heure locale. Nous ne transmettons pas l'historique complet des sessions au prestataire d'IA. Vous pouvez refuser ou retirer l'autorisation de localisation dans les réglages de l'appareil et saisir une ville. Si la confirmation de localisation est activée dans l'application, vous pouvez refuser une position proposée avant l'analyse.
 
-Lorsque vous lancez une analyse, les données suivantes sont transmises :
+## 3. Météo et événements réels
 
-- Votre humeur, intention, taille d'activité et durée maximale optionnelle sélectionnées
-- Le nom de la ville que vous avez renseigné
-- Vos coordonnées GPS (uniquement si vous confirmez explicitement l'invite de localisation)
+Sur les plans payants, lorsque des coordonnées sont fournies, notre serveur les arrondit à une décimale (environ 10 km) avant d'interroger MET Norway. Pour les lieux situés aux États-Unis, il peut aussi utiliser le National Weather Service. Ces services voient l'adresse IP de notre serveur et les coordonnées arrondies, pas l'adresse IP du téléphone.
 
-Ces données sont envoyées à **notre serveur** puis à **notre prestataire IA** pour générer des recommandations.
+La recherche d'événements Premium transmet à l'API Discovery de Ticketmaster la ville, le pays, la langue et un créneau de 24 heures. Les coordonnées précises ne servent qu'à filtrer les résultats par distance sur notre serveur ; elles ne sont pas transmises a Ticketmaster.
 
-Sur les **plans payants**, votre ville ou vos coordonnées GPS sont également transmises à notre **fournisseur de données météo** pour obtenir le contexte météorologique en temps réel. Ces données ne sont pas conservées par le fournisseur au-delà de la requête immédiate.
+Lorsque le service est configuré, la recherche d'événements Standard et Premium transmet à Perplexity la ville et le pays, un créneau de 24 heures, des catégories générales, le budget maximal et sa devise, une durée éventuelle et la météo générale si disponible. Nous ne lui transmettons ni l'humeur brute, ni les coordonnées GPS précises, ni l'identifiant RevenueCat, ni l'historique des sessions. Perplexity voit l'adresse IP de notre serveur. Les événements peuvent être indisponibles ou inexacts : vérifiez l'horaire, le prix et les places auprès de l'organisateur.
 
-**Les rapports d'incidents anonymes** (erreurs et ralentissements agrégés — sans données personnelles ni identifiants) sont transmis à notre serveur environ une fois par semaine si des incidents locaux ont été enregistrés.
+## 4. Publicité, achats et diagnostics
 
-## 3. Services tiers utilisés
+Le plan gratuit utilise Appodeal et ses partenaires publicitaires. Selon les autorisations et vos choix de consentement, ils peuvent traiter des identifiants publicitaires ou de l'appareil, l'adresse IP, une localisation approximative ou précise, et des données d'utilisation de l'application ou des publicités. Un contrôle de confidentialité publicitaire est accessible dans l'application ; consultez la [politique d'Appodeal](https://www.appodeal.com/privacy-policy) et ses [déclarations relatives au SDK](https://docs.appodeal.com/android/data-protection/app-privacy-details). Les abonnés payants ne voient pas de publicités dans l'application.
 
-Nous utilisons les catégories suivantes de services externes :
+Les achats sont gérés par la boutique d'applications et RevenueCat. Nous utilisons l'identifiant utilisateur anonyme RevenueCat pour vérifier les droits ; nous ne recevons pas les données de carte bancaire. Consultez la [politique de RevenueCat](https://www.revenuecat.com/privacy).
 
-| Service | Finalité | Plans |
-|---|---|---|
-| Prestataire IA | Génération des recommandations d'activités | Tous les plans |
-| Fournisseur de données météo | Contexte météorologique en temps réel | Plans payants uniquement |
-| Google AdMob | Affichage de publicités | Plan gratuit uniquement |
+L'application conserve localement les erreurs et ralentissements et peut envoyer environ une fois par semaine un résumé diagnostique à notre serveur. Ce résumé contient des dates, le contexte de la fonction et des exemples de messages d'erreur ; il n'est donc pas garanti anonyme. Le serveur peut journaliser des erreurs opérationnelles et ces résumés ; l'hébergeur peut conserver des journaux de connexion. Nous ne tenons pas de base permanente des demandes d'analyse ou d'identifiants d'appareil pour les recommandations.
 
-Nous utilisons Google AdMob pour afficher des publicités aux utilisateurs du plan gratuit. AdMob peut collecter des identifiants publicitaires (comme le GAID) et des données d'utilisation comme décrit dans la politique publicitaire de Google. Les abonnés aux plans payants ne voient pas de publicités. Aucune plateforme d'analyse ni aucun rapporteur de plantages au-delà de ce qui précède ne sont intégrés dans l'application.
+## 5. Finalités, bases juridiques et conservation
 
-À l'exception de Google AdMob, nous ne nommons intentionnellement pas les prestataires spécifiques dans cette politique afin de pouvoir les changer librement sans nécessiter de mise à jour de la politique. Pour connaître les prestataires actuellement utilisés, contactez-nous à contact@nelio-tech.com.
+Nous traitons les paramètres d'analyse, la localisation que vous fournissez et le statut d'abonnement pour exécuter le service demandé ; l'accès facultatif à la localisation précise et la publicité personnalisée dépendent de l'autorisation ou du consentement pertinent. Nous utilisons les diagnostics limités pour maintenir la fiabilité du service. Les données locales restent jusqu'à leur effacement ou la désinstallation, sous réserve des sauvegardes. Les recommandations et événements peuvent rester brièvement dans les caches mémoire du serveur (normalement quelques secondes ou minutes). Les journaux de diagnostic et d'infrastructure suivent les paramètres de conservation opérationnels ; contactez-nous pour connaître la durée actuelle. Les prestataires conservent les données selon leurs propres conditions. En particulier, [Perplexity indique](https://docs.perplexity.ai/docs/agent-api/conversation-state) que `store: false` masque la récupération d'une réponse sans empêcher sa conservation sur ses serveurs. Nous ne promettons pas une absence totale de conservation chez les prestataires.
 
-## 4. Conservation des données
+Des prestataires peuvent traiter les données hors de votre pays. Leurs politiques et les garanties de transfert applicables encadrent ces transferts. Nous n'exigeons pas de compte Nelio, ne collectons pas de données biométriques ni d'enregistrements vocaux, et ne recevons pas les données de carte bancaire.
 
-Notre serveur n'enregistre pas vos requêtes d'analyse.
+## 6. Vos choix et droits
 
-Notre prestataire IA peut conserver temporairement les données de prompt jusqu'à 30 jours conformément à ses conditions d'API standard. Ces données ne sont pas utilisées pour l'entraînement du modèle.
+Vous pouvez refuser ou retirer la localisation, gérer le consentement publicitaire dans l'application et supprimer les données locales en désinstallant l'application. Selon la loi applicable, vous pouvez demander l'accès, la rectification, l'effacement, la limitation, la portabilité ou vous opposer aux traitements dont nous sommes responsables. Contactez contact@nelio-tech.com. Vous pouvez également saisir votre autorité de protection des données. Pour les données détenues indépendamment par un réseau publicitaire, une boutique ou un autre prestataire, ses propres contrôles peuvent être nécessaires.
 
-## 5. Ce que nous ne collectons pas
-
-- Adresse e-mail ou informations de compte
-- Données biométriques, enregistrements vocaux ou photos
-- Historique de navigation ou toute donnée extérieure à l'application
-- Informations de carte de paiement (gérées entièrement par la boutique d'applications)
-
-## 6. Vos droits
-
-- Vous pouvez désactiver l'accès à la localisation à tout moment dans les paramètres système de votre appareil.
-- Vous pouvez refuser les publicités personnalisées via les paramètres publicitaires de votre appareil.
-- Vous pouvez refuser l'invite de confirmation GPS avant chaque analyse.
-- Vous pouvez effacer toutes les données locales en désinstallant l'application.
-- Pour toute question relative à la confidentialité ou demande de données, contactez-nous à contact@nelio-tech.com.
-
-## 7. Modifications de cette politique
-
-Nous pouvons mettre à jour cette politique à tout moment. La date en haut reflète la dernière révision. L'utilisation continue de l'application après une mise à jour constitue l'acceptation de la politique révisée.
-
----
-
-Contact : contact@nelio-tech.com
+Nous actualiserons cette politique lorsque nos traitements évolueront et afficherons la date de révision ci-dessus. Cette politique ne remplace aucun consentement exigé par la loi.

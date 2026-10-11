@@ -1,5 +1,7 @@
 # Nelio — 이용약관
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/TERMS.md) and [French](../fr/TERMS.md) terms. Please use one of those current versions.
+
 **최종 업데이트: 2026년 5월 12일**
 
 Nelio를 사용함으로써 이 이용약관에 동의하게 됩니다. 주의 깊게 읽어보시기 바랍니다.

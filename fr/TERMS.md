@@ -1,58 +1,33 @@
-# Nelio — Conditions d'utilisation
+# Nelio Activity - Conditions d'utilisation
 
-**Dernière mise à jour : 12 mai 2026**
+**Dernière mise à jour : 11 octobre 2026**
 
-En utilisant Nelio, vous acceptez les présentes Conditions d'utilisation. Veuillez les lire attentivement.
+Ces conditions régissent l'utilisation de Nelio Activity, exploité par Nelio Tech LLC. Si vous ne les acceptez pas, n'utilisez pas le service. Contact : contact@nelio-tech.com.
 
----
+## 1. Le service
 
-## 1. Acceptation
+Nelio Activity suggère des activités locales selon l'humeur choisie, les préférences, la ville et, facultativement, la position. Le plan gratuit utilise des recommandations fondées sur des règles et affiche des publicités. Standard et Premium peuvent utiliser des recommandations IA et rechercher des événements liés à des sources ; Premium peut aussi présenter des événements Ticketmaster. La météo et un apprentissage facultatif sur l'appareil peuvent affiner les recommandations payantes. Une connexion Internet est nécessaire pour l'analyse. Les fonctions dépendent des prestataires, de la couverture géographique et du plan indiqué dans l'application.
 
-Le téléchargement ou l'utilisation de l'application Nelio constitue votre acceptation de ces conditions. Si vous n'êtes pas d'accord, veuillez ne pas utiliser l'application.
+Les plans Gratuit et Standard permettent actuellement jusqu'à trois analyses par jour UTC ; Premium n'impose pas de limite quotidienne d'analyses dans l'application. Ces limites et fonctions peuvent évoluer pour l'avenir après information. L'offre et l'écran d'achat en vigueur précisent le prix, l'essai éventuel, la période de facturation et les fonctions incluses au moment de l'achat.
 
-## 2. Description du service
+## 2. Événements et recommandations
 
-Nelio fournit des recommandations d'activités locales alimentées par l'IA, basées sur votre humeur et vos préférences.
+Les lieux, temps de trajet, budgets et descriptions générés par IA peuvent être inexacts. Les sources d'événements, horaires, prix, conditions d'accessibilité et disponibilités peuvent changer sans préavis. Vérifiez les informations directement auprès du lieu, de l'organisateur ou du vendeur avant de vous déplacer, réserver ou payer. Nelio Activity ne vend pas de billets et ne garantit pas l'entrée. Les sites externes et leurs achats sont soumis à leurs propres conditions.
 
-Le service :
-- Utilise un prestataire IA tiers pour générer des recommandations personnalisées
-- Sur les plans payants, utilise également un fournisseur de données météo pour le contexte météorologique en temps réel
-- Nécessite une connexion Internet pour effectuer une analyse
+## 3. Abonnements
 
-Les plans payants permettent également :
-- Un **moteur d'apprentissage local** qui reclasse les recommandations selon votre historique d'interactions (stocké uniquement sur votre appareil)
-- Un **contexte météorologique en temps réel** inclus dans la requête IA
-- Des **notifications quotidiennes personnalisées** programmées à votre heure d'utilisation de pointe détectée
-- Des **analyses illimitées** (plan Premium) ou jusqu'à 3 analyses par jour (plan Standard)
+Les abonnements et paiements sont traités par la boutique d'applications concernée ; RevenueCat contribue à vérifier les droits. Le renouvellement automatique, la résiliation, les remboursements et tout essai sont régis par les conditions affichées par cette boutique lors de l'abonnement. La désinstallation ne résilie pas l'abonnement. Gérez-le ou annulez-le dans le compte de la boutique utilisé pour l'achat. Nous ne recevons pas les données de votre carte bancaire.
 
-## 3. Utilisation acceptable
+## 4. Usage autorisé et droits
 
-Vous acceptez d'utiliser Nelio uniquement à des fins personnelles et légales. Vous ne devez pas :
+Utilisez le service légalement, sans perturber son fonctionnement, abuser de ses API ou soumettre de contenu illicite. Vous conservez vos droits sur les informations que vous fournissez. Nous accordons une licence limitée, non exclusive et non transférable d'usage personnel de l'application. Nelio Tech LLC conserve ses droits sur l'application, sa marque et ses contenus originaux, sous réserve du droit applicable et des droits des tiers.
 
-- Tenter de décompiler, copier ou redistribuer l'application ou son contenu
-- Abuser du service d'une manière qui dégrade la disponibilité pour les autres utilisateurs
-- Utiliser l'application pour générer ou distribuer du contenu illégal
+## 5. Disponibilité et responsabilité
 
-## 4. Propriété intellectuelle
+Nous cherchons à maintenir le service disponible, sans pouvoir garantir un accès ininterrompu ni l'exactitude des informations de tiers. Rien dans ces conditions n'écarte les droits ou recours qui ne peuvent légalement être exclus, notamment les protections impératives des consommateurs. Dans les limites permises par la loi, nous ne sommes pas responsables des pertes dues à des recommandations non vérifiées ou à un événement, lieu, vendeur ou réseau tiers.
 
-L'ensemble du contenu, des marques et du code au sein de Nelio sont la propriété de Nelio Tech. Vous bénéficiez d'une licence personnelle, non transférable et non exclusive pour utiliser l'application à des fins personnelles.
+## 6. Confidentialité et modifications
 
-## 5. Limitation de responsabilité
-
-Nelio fournit des recommandations **en l'état**. Nous ne sommes pas responsables de :
-
-- Toute décision prise sur la base des suggestions de l'application
-- Les interruptions de service causées par des prestataires tiers ou l'infrastructure
-- Les inexactitudes dans les données météorologiques ou le contenu généré par l'IA
-
-## 6. Abonnements et facturation
-
-Les abonnements sont gérés et facturés via la boutique d'applications concernée (Google Play ou Apple App Store). Les conditions de facturation, les politiques de remboursement et les procédures d'annulation sont régies par les propres conditions d'utilisation de la boutique d'applications.
-
-## 7. Modifications des conditions
-
-Nous pouvons mettre à jour ces conditions à tout moment. La date en haut reflète la dernière révision. L'utilisation continue de l'application après des modifications constitue l'acceptation des nouvelles conditions.
-
----
+Consultez la [Politique de confidentialité](./PRIVACY.md) pour les traitements de données et vos choix. Nous pouvons modifier ces conditions pour tenir compte de l'évolution du service ou de la loi. Nous publierons le nouveau texte avec sa date et informerons les utilisateurs des modifications importantes lorsque la loi l'exige. Les changements ne modifient pas rétroactivement un achat achevé.
 
 Contact : contact@nelio-tech.com

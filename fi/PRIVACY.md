@@ -1,5 +1,7 @@
 # Nelio — Tietosuojakäytäntö
 
+> **Translation notice (2026-10-11):** This translation has not been reviewed against the current [English](../en/PRIVACY.md) and [French](../fr/PRIVACY.md) policy. Please use one of those current versions.
+
 **Viimeksi päivitetty: 9. heinäkuuta 2026**
 
 Noudatamme yksinkertaista sääntöä: vähimmäismäärä dataa, paikallisesti tallennettuna aina kun mahdollista, läpinäkyvä mainonta ilmaisessa paketissa eikä henkilötietojen myyntiä.
